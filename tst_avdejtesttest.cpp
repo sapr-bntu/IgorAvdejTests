@@ -24,7 +24,7 @@ private Q_SLOTS:
 AvdejTestTest::AvdejTestTest()
 {
 }
-
+// этот не подходит
 void AvdejTestTest::testCase1()
 {
     QLineEdit lineEdit;
